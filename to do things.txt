@@ -1,0 +1,33 @@
+Improvement
+===========
+*) Make UI fix with black navbar
+*) Work on pay other fees section (selection of student to pay other fees)
+1) Think of how to manage current and old data.
+2) Implement functionality to maintain record of old students
+3) Implement selection of available roll number in admission process
+4) Receipt cancellation report
+5) Admission cancellation report
+6) Old dues report (previous year remaining fees if any)
+7) Implement Fees refund process and its report
+8) Fees waived off functionality and its report
+
+=============================================
+=        reports.php                        =
+=        studentwise-reports.php            =
+=        user-wise-report.php               =
+=============================================
+=        outstanding-reports.php            =
+=        reports-other.php                  =
+=        Exam fees not paid report          =
+=        Exam fees paid report              =
+=============================================
+
+
+New Functionality
+=================
+1) Implement and integrate Library management system
+2) Implement GIT
+3) Re-architect code base
+4) Introduce Recat and node
+
+

@@ -1,0 +1,16 @@
+Add remaining paid total fees in receipt and fees page
+Academic year on receipt
+Admission cancellation
+Search by name and ID on other fees page
+Change in admission form
+other fees error
+Remove few other headers with Tution Fees when GOI is selected while filing admission form
+
+
+Theme selection
+Fee concession - admission form Remark
+Other fees page outstanding fees display
+Report name wise (configurable)
+College header in generated report
+Refresh database feature
+====================================
